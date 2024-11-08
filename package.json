@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "minimatch": "^9.0.4",
-    "schema-utils": "version-3"
+    "schema-utils": "3.3.0"
   },
   "devDependencies": {
     "@rsbuild/core": "^0.7.9",

@@ -3,3 +3,4 @@ bun.lockb
 tsconfig.json
 dist
 test/fixture
+package-lock.json
